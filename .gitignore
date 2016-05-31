@@ -1,0 +1,4 @@
+.DS_Store
+vps/*
+*dist*
+*node_modules*
